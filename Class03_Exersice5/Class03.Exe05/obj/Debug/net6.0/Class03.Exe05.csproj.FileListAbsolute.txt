@@ -1,0 +1,15 @@
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\bin\Debug\net6.0\Class03.Exe05.exe
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\bin\Debug\net6.0\Class03.Exe05.deps.json
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\bin\Debug\net6.0\Class03.Exe05.runtimeconfig.json
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\bin\Debug\net6.0\Class03.Exe05.dll
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\bin\Debug\net6.0\Class03.Exe05.pdb
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\Class03.Exe05.csproj.AssemblyReference.cache
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\Class03.Exe05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\Class03.Exe05.AssemblyInfoInputs.cache
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\Class03.Exe05.AssemblyInfo.cs
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\Class03.Exe05.csproj.CoreCompileInputs.cache
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\Class03.Exe05.dll
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\refint\Class03.Exe05.dll
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\Class03.Exe05.pdb
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\Class03.Exe05.genruntimeconfig.cache
+C:\Users\Djoko\source\repos\Class03.Exe05\Class03.Exe05\obj\Debug\net6.0\ref\Class03.Exe05.dll
