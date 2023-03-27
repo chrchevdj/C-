@@ -1,0 +1,15 @@
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\bin\Debug\net6.0\Class03_Exercise02.exe
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\bin\Debug\net6.0\Class03_Exercise02.deps.json
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\bin\Debug\net6.0\Class03_Exercise02.runtimeconfig.json
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\bin\Debug\net6.0\Class03_Exercise02.dll
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\bin\Debug\net6.0\Class03_Exercise02.pdb
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\Class03_Exercise02.csproj.AssemblyReference.cache
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\Class03_Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\Class03_Exercise02.AssemblyInfoInputs.cache
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\Class03_Exercise02.AssemblyInfo.cs
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\Class03_Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\Class03_Exercise02.dll
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\refint\Class03_Exercise02.dll
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\Class03_Exercise02.pdb
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\Class03_Exercise02.genruntimeconfig.cache
+C:\Users\Djoko\Desktop\Academija\ACADEMIA\School\GIT\mkwd11-net-05-oopcsharp\G7\Class03\Class03_Exercise02\Class03_Exercise02\obj\Debug\net6.0\ref\Class03_Exercise02.dll

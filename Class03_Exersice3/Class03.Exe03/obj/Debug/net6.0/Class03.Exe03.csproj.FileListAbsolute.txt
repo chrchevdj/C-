@@ -1,0 +1,15 @@
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\bin\Debug\net6.0\Class03.Exe03.exe
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\bin\Debug\net6.0\Class03.Exe03.deps.json
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\bin\Debug\net6.0\Class03.Exe03.runtimeconfig.json
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\bin\Debug\net6.0\Class03.Exe03.dll
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\bin\Debug\net6.0\Class03.Exe03.pdb
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\Class03.Exe03.csproj.AssemblyReference.cache
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\Class03.Exe03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\Class03.Exe03.AssemblyInfoInputs.cache
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\Class03.Exe03.AssemblyInfo.cs
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\Class03.Exe03.csproj.CoreCompileInputs.cache
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\Class03.Exe03.dll
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\refint\Class03.Exe03.dll
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\Class03.Exe03.pdb
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\Class03.Exe03.genruntimeconfig.cache
+C:\Users\Djoko\Desktop\Academija\2. 2nd Semestar\C#\Class03.Exe03\Class03.Exe03\obj\Debug\net6.0\ref\Class03.Exe03.dll
